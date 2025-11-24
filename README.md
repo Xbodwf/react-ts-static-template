@@ -2,10 +2,6 @@
 
 This project includes custom Vite plugins to enable opening the built HTML file directly (double-click) without a web server.
 
-
-> [!INFO]
-> This template use a simple method to help build static pages in one click.
-
 ## Plugins
 
 ### HTML Post-Build
